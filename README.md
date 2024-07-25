@@ -18,7 +18,7 @@ This Python script allows users to send automated emails with ease. Leveraging `
 
 ### 1. Clone the Repository:
 ```sh
-git clone https://github.com/yourusername/automated-email-sender.git
+git clone https://github.com/yourusername/Automated-Email-Sender.git
 cd automated-email-sender
 ```
 
